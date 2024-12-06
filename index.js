@@ -116,7 +116,7 @@
 //   B = 0;
 // }
 
-// console.log("Natija:", A);
+// console.log("A ning qiymati::", A);
 // console.log("B ning qiymati:", B);
 
 // if11
